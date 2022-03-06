@@ -1,10 +1,11 @@
 
 <h1 align="center">Cardano生态信息中文分享网</h1>
 
-<!--
- [GitHub](https://github.com/Snailclimb/docsify-demo)
- [开始阅读](#docsify-demo)
--->
+
+ [youtube](https://www.youtube.com/channel/UCAfHoyK5b8RoQt9ipN0j4YA)
+ [twitter](https://twitter.com/zjavax)
+ [开始阅读](#首页)
+
 
 
 
