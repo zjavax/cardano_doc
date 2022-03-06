@@ -15,11 +15,13 @@
   
 * Coin
 
+* [人物榜单](./docs/Cardano中文风云人物榜.md)
+
 -->
 
 * [导航](./docs/导航.md)
 
-* [人物榜单](./docs/Cardano中文风云人物榜.md)
+
   
 * [介绍](./docs/介绍.md)
 
