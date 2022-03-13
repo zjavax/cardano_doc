@@ -11,6 +11,19 @@
 
 # 时间轴
 
-3.14 wmt举办亚太地区云峰会，主题是讨论cardano生态的，中文视频会议，感兴趣的可以去听一听
 
+
+持有Cardano Village请注意，4.1号空投代币，每五天空投一次，详情请看其discord公告
+
+
+
+aada ispo 327纪元结束：[官方推文](https://twitter.com/AadaFinance/status/1502403995121324034)
+
+
+
+ergodex [4.4上线测试网](https://ergodex.medium.com/cardano-launch-how-why-and-wen-ba94036ee62a)
+
+
+
+3.14 wmt举办亚太地区云峰会，主题是讨论cardano生态的，中文视频会议，感兴趣的可以去听一听
 

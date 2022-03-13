@@ -1,3 +1,9 @@
+markdown指南
+https://developers.cardano.org/docs/portal-style-guide
+https://docusaurus.io/docs/next/markdown-features
+
+
+
 还记得我在上周发的[《V2.0 版本的 JavaGuide 面试突击版来啦！带着它的在线阅读版本来啦！》](https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247486494&idx=1&sn=a17e8278bd9fc1354449f925ef990c25&chksm=cea243d5f9d5cac3b0b3b55769e162363256eb7fa483997c21b62cddb4ef2d583a2bcae0ac1a&token=1910196174&lang=zh_CN#rd)这篇文章中答应手把手教大家搭建一下下面一样的文档类型网站不？
 
 
