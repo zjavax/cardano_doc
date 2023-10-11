@@ -7,15 +7,25 @@
 **Below are the traits that are matched to the Gnomeskies: 69 Shades of Rug to earn Hosky. (To be updated)：**
 
 BONE/ITZA - Taco
+
 LIDO - Poolception / Lobster
+
 FARM - Hunter
+
 **BAIDU - Rug Merchant**
+
 DDOS - NFT Guru / Pernis
+
 HAZEL/PSB - McHosky
+
 PRIDE/A3C - Classic
+
 PSYA/QCPOL - Cheshire
+
 SEA/SALT - Yacht / Playboy
+
 VEGAS - Vegas/English
+
 WOOF/CHEF - Idiot
 
 
