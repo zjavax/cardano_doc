@@ -56,3 +56,12 @@
 [adaswap](https://twitter.com/adaswapapp)
 
 > 神奇女侠投资
+
+
+
+[@blueshiftfi](https://twitter.com/blueshiftfi)
+
+（AMM + 投资组合资产池）
+
+
+
