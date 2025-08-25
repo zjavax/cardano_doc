@@ -20,7 +20,20 @@
 
 [taptools平台Strike代币k线](https://www.taptools.io/charts/token/strike)
 
-## 代币购买建议
+## $Strike代币购买建议
+
+目前$strike代币没有上线任何cex, 只能在ada swap上面购买
+
+池子最深的在minswap(有100万ada)和splash(有50万ada) ,池子交易费用均为1%
+
+推荐购买swap为, 大家购买时通过比较选择最便宜的:
+
+1. minswap聚合器(推荐, 费用0.85₳ 或 0.1%)
+   https://minswap.org/aggregator?cA=&tA=&cB=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275&tB=535452494b45&agg=true
+2. dexhunter(费用1ada+0.15%)
+   https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45
+3. steelswap(收费最为便宜, 仅仅收1ada, 要注意有的池子的流动性没有添加
+   https://steelswap.io/swap?input=&output=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45&type=input&amount=NaN
 
 ## 视频资源
 
