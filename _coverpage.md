@@ -6,4 +6,4 @@
 [我的权益池](docs/我的权益池)
 [国外访问地址](https://zjavax.github.io/cardano_doc/#/)
 [国内访问地址](https://zjavax.gitee.io/cardano_doc/#/)
-[开始阅读](#时间轴)
+[开始阅读](docs/strike)
