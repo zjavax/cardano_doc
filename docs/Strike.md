@@ -4,7 +4,7 @@
 
 [官方推特](https://x.com/strikecardano)
 
-[shan推特](https://x.com/sz8ng)
+[shan推特](https://x.com/sz8ng) Strike创始人
 
 [官网](https://app.strikefinance.org/)
 
