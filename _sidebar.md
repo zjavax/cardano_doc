@@ -27,5 +27,5 @@
 - [加微信进 ada 交流群](./docs/介绍.md)
 - [人物榜单](./docs/Cardano中文风云人物榜.md)
 - [Hosky](./docs/Hosky.md)
-- [**Strike**](./docs/Strike.md)
-- [**Strike流动性池介绍**](./docs/strike_lp.md)
+- [Strike](./docs/Strike.md)
+- [Strike流动性池介绍](./docs/strike_lp.md)
