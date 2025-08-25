@@ -1,17 +1,23 @@
 **$Strike** 代币Policy Id(唯一标识): **f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275**
 
-##官方链接
+## 官方链接
 
 [官方推特](https://x.com/strikecardano)
+
 [shan推特](https://x.com/sz8ng)
+
 [官网](https://app.strikefinance.org/)
+
 [文档](https://docs.strikefinance.org/)
+
 [discord](https://discord.com/invite/SjH4NDeEGq)
+
 [所有官方链接](https://linktr.ee/strikecardano)
 
 ## 非官方链接
 
 [Strike中文电报非官方群](https://t.me/Strike_CN)
+
 [taptools平台Strike代币k线](https://www.taptools.io/charts/token/strike)
 
 ## 代币购买建议
