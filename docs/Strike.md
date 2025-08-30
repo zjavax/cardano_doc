@@ -72,3 +72,5 @@
 [Strike 流动性供应LP 页面基本介绍](https://youtu.be/HyOGOmn99SQ?si=NIpDvirONGyld-jy)
 
 > 2025.8.15
+
+[Strike代币经济学](https://youtu.be/PjWvbUl0484?si=vlCKJuERQDPtilaw)
