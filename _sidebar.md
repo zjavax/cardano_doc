@@ -29,3 +29,5 @@
 - [Hosky](./docs/Hosky.md)
 - [Strike](./docs/Strike.md)
 - [Strike流动性池介绍](./docs/strike_lp.md)
+- [Strike开发更新](./docs/strike_dev.md)
+- [Strike代币经济学](./docs/strike_tokenomics.md)
