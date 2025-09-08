@@ -37,6 +37,10 @@
 3. steelswap(收费最为便宜, 仅仅收1ada, 要注意有的池子的流动性没有添加
    https://steelswap.io/swap?input=&output=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45&type=input&amount=NaN
 
+### 订单簿深度
+https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45
+> 在不同价格区间, 买卖的挂单深度, 通过了解这个 知道市场大概的底部 和 顶部, DCA的时候可以提供一定的参考
+
 ## 视频资源
 
 [饺子和shan的中文推特语音直播](https://youtu.be/rTf9U4mCXoA?si=53wrqTiRjfwTHayv)

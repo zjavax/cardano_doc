@@ -1,0 +1,469 @@
+Today on Nerd Out, strike finance.
+[Music]
+Welcome back to Nerd Out, the show where
+we take a look at Cardano, we break it
+down, but we don't dumb it down. Today,
+we're going to be talking to one of the
+developers at Strike Finance, Sean. Uh,
+sorry, Sha Yu. Uh so let's invite him up
+to the stage. Welcome Sean.
+>> Hey everyone. Thanks for having me man.
+I'm super excited to come on here and
+talk about Strike.
+>> Yeah. No, Strike is one of the hottest
+things going on Cardano right now. So
+it's been uh it's been a little bit of a
+long time coming. I've wanted to get you
+on the on the show for a while to talk
+about um you know how you're building,
+what you're doing, what's coming next.
+Um so lots of questions uh that I'll
+have for you. tell us a little bit about
+yourself and kind of maybe how you got
+involved with Cardano development.
+>> Yeah. Yeah. Um, so I've been developing
+on Cardono ever since 2021. I think our
+uh I was first an intern at a Cardono
+project named Snapia where they were
+funded I think from fund nine through
+fund 10. We had a few proposals. I went
+from being an intern there to a
+full-time software developer and towards
+the end I was the I was the lead
+developer for a few of the projects. Um
+I can briefly go over what kind of
+projects you build. We I think we built
+the first quadratic voting solution on
+Cardano. We open sourced it. It was
+built in um Plutus the good old days.
+Mhm.
+>> And then you also built a bug bounty
+platform where anyone can, you know,
+post bugs or things they want to get
+built essentially for the platform. And
+um the we built a smart contract for
+that and also people were paying to have
+those you know um tasks to be built in
+Cardono Cardano um ADA or CNTs. After
+that, um, built a Discord bot centered
+around SSI
+and just governance in general. So you
+can spin up voting rounds within your
+district channel and you can white
+whitelist token only allowing people
+with that hold your your project's token
+to vote and um it was integrated with um
+SSI to just you know also ver issue a
+verifiable credentials whenever people
+place a vote
+>> and so so like what got you into
+blockchain development originally like
+what what made you start looking at this
+particular industry?
+Oh, I guess it's I share a lot the same
+story as everyone else. We were just
+back home in COVID just going on YouTube
+and then one day I just see this guy
+Charles Hoskinson just talking about
+blockchain you know you know in front of
+whiteboard and then um yeah that's how
+that's to be honest that's literally how
+I got into first ever heard about
+blockchain and then like I didn't know I
+was going to work in the blockchain
+industry but when the time came like um
+in Stampia we're debating about our next
+venture like um
+>> and we were debating on what chain to
+build on. I just recall Charles Hosk. I
+was like, "Dude, we got to build on
+Cardano."
+>> And um that's cool.
+>> Yeah, that's Yeah, that's how uh I first
+got into it.
+>> Awesome. So, eventually you landed at at
+Strike and tell us a little bit about um
+Strike Finance, kind of what was planned
+and where we're at today. So I know I I
+read through the light paper from back
+in the day and it mentions three
+different kind of financial instruments.
+It had you know forwards, it had options
+and then it mentions perpetuals and
+perpetual futures. So kind of take us
+through the evolution of of how that has
+gone.
+>> Yeah. Yeah. Uh I think we did our first
+Twitter post like literally September of
+last year or August and then um you know
+we were marketing we were building we
+launched test net and the first product
+we released was our
+>> fords
+>> and well to be honest we didn't get
+really too much volume on that we got
+around like 50 200k AD of volume in like
+um two three months of operation.
+quickly explain what a forward is for
+people that aren't defiant.
+>> Yeah. Yeah. It's it's an contract where
+you enter with another party. So
+essentially P2P uh contract where you
+agree to buy or sell an asset at this
+price uh at a specific date in the
+future. So let's say you have 100 ADA,
+you wanted to sell it for 50 USDM, you
+know, two months from now. someone else
+will enter into this contract with you
+and for two months from now no matter
+what the price of ADA is at that time
+you will have to sell 100 of it 450 USDM
+to that other person
+>> um yeah that's essentially what the
+forward is after that we around three to
+four months after that that's when we
+released our perpetuals
+>> after releasing our perpetuals we
+realized you know um there was no more
+there was really no reason for us to
+continue supporting the fords people
+weren't really will really wanting to
+use it. It wasn't just a it it was just
+not a good product.
+>> And then we wanted to focus solely on
+our perpetuals. And you also mentioned
+um options. We yeah originally we really
+wanted to release a suite of um just
+defy instruments that people can use on
+Cardano but just after seeing the
+attention we got and just the pure usage
+for our perpetuals uh we just thought it
+wouldn't have made sense to us for us to
+you know diverge our focus and build
+another product. We should just explain
+on the perpetuals just this is a really
+interesting story you're telling because
+it's it's very common among startups to
+have several pivots before they nail
+product market fit. And it sounds like
+you did that and then once you found it
+it's like well it doesn't make sense to
+run off and do this other thing in the
+plan. So I mean that's that's really
+interesting and I think it's important
+for developers to to see that and remain
+flexible um in the you know due to
+market forcers and and whatnot and user
+demand. So that's that's a really cool
+story. Um so tell us a little bit about
+um you know V1 perpetual futures and and
+kind of where you came from and where
+you're at like get into the the gritty
+details like what is the platform built
+on? What are the smart contracts built
+on? All of that stuff.
+>> Yeah. Yeah. Yeah. Um so our smart
+contract is built using icon. Of course
+it has to.
+>> Um do we we use a batcher model? Uh but
+for that uh I want to say um I should
+probably just go over a high level
+overview of how like our V1 works.
+>> In our V1 essentially you have two
+different parties. The LPS that provide
+liquidity for the pool and the traders.
+the LPS and traders, they're essentially
+just taking the opposite trade of each
+other. Um, if
+uh if the traders take a loss, all the
+profits or all the losses that the
+trader occurs, all those profits goes
+towards the LPS. And if the traders, you
+know, gain a profit, you know, or they
+successfully place a trade and, you
+know, the market moves in their
+direction, the profits comes from the
+LPS LP. essentially the LPs lost money.
+>> So,
+>> so it's kind of a balance between the
+the people
+>> betting on a price to rise versus a
+price to fall and then the LP holders
+kind of take the opposite side of the
+way it goes as well.
+>> And if you think of this as a gambling
+house, the LPS are basically the house.
+We have the like 100% of the liquidated
+collaterals and losses goes towards the
+LPS. And we also have this thing hourly
+borrow hourly borrow fee where a trader
+has to pay every hour in order for their
+position to be open. And this this
+hourly borrow fee is what really tips
+the edge over to the LPS making sure
+they do you know um earn a profit over
+the long run. there there will be days
+where weeks where you know up their
+suffer loss and we have actually seen it
+uh recently with um everyone just taking
+a long position on strike while and you
+know it'll pump 50% thank god finally
+and then um
+uh yeah LP just suffered a loss but o
+over the long run this this month LPS
+even with just meteoric rise of ADA LP
+and everyone taking a lot of positions
+LPS has earned roughly uh last time I
+checked 450k ADA this month, but um
+they're they're still down a bit um from
+from the last last last rise, but um uh
+I do believe over and it it over the
+long run the LPs will will come out.
+>> Yeah. So, I mean, I've I've used the
+platform myself. It's it's a ton of fun.
+Um congratulations on having uh a really
+neat system built for it. Um so, you
+said you used Iiken. Tell me a little
+bit more about the stack of the the
+website and the front end etc.
+>> Yeah. Yeah. Yeah. Uh so Nex.js Michelle
+in in in the front end just um we do
+have a backend server running our
+batchers. So we do actually use the
+batcher model and then um
+>> and then yeah I I want to just give one
+minute to shout uh talk about our
+batcher here like our um our developer
+from Taiwan new t he's super active in
+um the blinks labs digital channel as
+well he's a awesome gold developer he
+built our he basically built our
+offchain infrastructure our batcher and
+um like it once handled like when it
+once handled like a hundred
+transactions,
+hundreds of transactions in in in a few
+minute. And that's just with using TX
+chaining and
+>> incredible.
+>> Yeah. And then um like sometimes we're
+we're sometimes a little bit buggy this
+part but um when if you close your
+position sometimes sometimes not most of
+the time but sometimes you will receive
+your ADA or or your stack or your asset
+in your wallet immediately
+>> because we do monitor the meme pool and
+once that's in we'll just you know send
+it out directly but that's sometimes
+sometimes not but um
+>> and I assume you're you're also u you
+know resubmitting any transactions when
+there's a blockchain roll back and and
+other stuff like that.
+>> Yes. Yes. Yes. Of course. Of course. And
+um we have run ran into a few times
+where um you know we submitted a
+transaction a TX ID came back and then
+um you know we were updating it in the
+front end but uh people open were open
+up Discord chat saying hey how come I
+never got my ADA or hey how come my
+transaction never landed on chain? Um we
+we were having that trouble a lot in the
+in the beginning but um I'm glad it has
+since been fixed at least
+>> because nobody has brought it up yet.
+But um thank god it's kind of it because
+it was really frustrating in the
+beginning. Hey, I got this TX ID.
+>> Why is it uh why is it not on chain or
+Yeah.
+>> or sometimes we got just where it's
+stuck in the main pool for like days and
+then um I'm not sure what to do about
+that.
+>> Yeah, we had um back in the early days
+at Drip Drops when I wor when I well
+when I built their system, we did
+something similar. We transaction
+chained a lot and so everybody that was
+wanting to get tokens out of one bucket,
+we would just chain the transactions one
+after another and you know we would
+build up to megabytes worth of
+transactions that needed to go on chain
+and it would take hours and one little
+roll back of the chain
+>> and we'd lose our whole stack and so
+you'd have to just reinflate the the
+mele. It was
+>> crazy. Um, but those learnings I I'm
+glad they've, you know,
+those those things like they're known
+now. They're known that that off-chain
+infrastructure needs to handle those
+kinds of things. So that's really cool.
+>> Um, so you guys are based on the
+essentially betting on the price of ADA
+>> in terms of dollars. uh what do you use
+for like any type of Oracle solution or
+or what where do you get your price
+feeds from?
+>> Um so it's an in oral solutions that we
+built
+ourselves. Um we really wanted to
+partner with a third party Oracle
+solution but um just when we were
+launching the current the current
+solutions on Cardono couldn't really fit
+our use case. It was either just like
+too slow or too too expensive. But um I
+can briefly talk about how we're
+building our oracle um or how how we're
+pulling the prices. It's
+>> it's
+um three major exchanges um
+>> Gate
+uh Binance and then um Kraken which just
+an aggregate um prices from all those
+three and of course you got to add the
+good things about uh you know if one of
+those goes down and it returns a zero it
+shouldn't mess up with the other ones
+you know all those good things.
+>> Cool.
+Yeah. Um, so tell me a little bit. I
+know you guys are still working on uh
+new options for the perpetuals platform.
+Uh, tell us kind of where you're going
+in the future.
+>> Yeah. Yeah. Yeah. Uh,
+uh, the most exciting thing that it's
+it's we're building out our V2 right
+now. It's um, most of the designs are
+done. We've submitted like our first
+commit commit to main like a few days
+ago on our V2 branch. Uh I'm sorry on V2
+repository and then um no I also want to
+surface this our because our V2 will
+take months to build like we hope we'll
+build it before 2026 if not probably
+like early
+>> early early Q1 of 2026 like we will
+still continuously make improvements to
+our V1. There's still a lot of things um
+we want to build on in our V1
+>> um like opening and closing a position
+in any asset you want
+>> things like that. And then um yeah for
+our V2 it's
+like our V1 architecture is basically
+the LPS versus the um traders and we we
+had to resort to this because um
+uh the transactions on Cardano is a bit
+too slow for an orderbook model and it's
+it'll be a bit too hard for you know
+heavy market makers to actually fulfill
+these orders. So that's why we had to
+come up with we had we had to use the LP
+versus the trader model. But for our V2
+um you'll be moving a lot of the
+a lot of the infrastructure offchain we
+will we will have the transaction
+finality onchain but the order order
+matching engine the liquidation engine
+um
+>> these things will mostly be offchain and
+this is what will allow us to build a
+all v2 on order book model.
+>> Okay cool. Um
+yeah, anything anything else you'd you'd
+like to share or um talk about?
+>> Yeah. Yeah. Oh, so so for our V2 like um
+for an order bulk model you will need um
+you know marketer makers of course but
+what we will do is allow people to
+delegate funds to us and we will market
+make on their behalf and um LPS from V1
+sorry we have the ability to pour over
+their um LPS from V1 to V2 and we'll
+just simply market make on their behalf.
+Um, also this model really cuz right now
+the LPS there there's risk to it like
+when when everyone takes a long position
+and the price just goes up like you do
+suffer a loss
+>> and it's not risk-f free but for our V2
+like I'm really confident and like this
+is a black swan event like it's
+basically just free yield like you're
+you're just fulfilling people's order
+and you're earning the spread. So
+there's there's really no risk
+>> for you in it. Of course, I shouldn't
+say everything anything in crypto is
+risky. But um
+>> yeah, you'll be relatively really less
+risky than providing LP in L1 um V1. And
+granted um the yield that you'll
+generate will will not be as much as you
+can possibly do in V1. So it's just uh
+you know different people people have
+different risk appetite but for our V2
+it will just be a lot more safer but um
+the yield will just be generally less
+and with an order book model we we are
+no longer constrained by people's
+liquidity because right now um if you
+want to open up a bitcoin perpetual
+contract in our v1 people need to supply
+bitcoin to our platform you and people
+if you if you want to open up salana you
+need provide salana liquidity Mhm.
+>> Without we want we won't need that. We
+we we just need USDM people deposit USDM
+to us
+>> and we'll simply just market make these
+orders and fulfill these orders and in
+spread and it can be any asset you want
+and this is something we are like okay I
+brought up any asset we want
+like we can technically have preipo
+companies assets literally anything you
+can think that has a price tag on it we
+will be able to do perpetual shading on
+it. And this is the direction that we
+want to go. Like perpetual trading on a
+predictions market. Like it sounds
+crazy, but like you can 10x your shares
+on a predict predictions market on
+strike. And um this is something that
+will like we'll be able to do in RV too.
+So I'm super excited about that. Just
+>> very cool.
+>> Yeah, just perpetual anything. Um that
+that's a new term that's came out of
+Twitter recently. Just perpetual
+anything. And um yeah, I'm super excited
+about V2.
+>> No, I'm I'm I'm pleased to hear you kind
+of, you know, a lot of times founders
+and and devs will get stuck on their
+original vision and they they won't
+pivot when a pivot makes sense. And and
+I want to congratulate you guys on, you
+know, finding your product market fit
+and just really going all in on on
+perpetuals, what's working, and uh you
+know, give the give the people what they
+want. Um, so with that, I will uh get
+ready to sign off here, but I want to
+thank you again for coming on the show
+and for sharing a little bit about
+Strike, a little bit about where you
+guys are going. Um, again, thanks for
+coming on.
+>> Thanks for having me. And with that,
+nerd out.
+[Music]

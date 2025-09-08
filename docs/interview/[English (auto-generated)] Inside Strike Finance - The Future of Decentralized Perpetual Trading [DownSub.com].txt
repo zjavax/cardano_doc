@@ -1,0 +1,883 @@
+Hello, hello, hello ladies and
+gentlemen. Welcome, welcome, welcome.
+Today I am joined by a very special
+guest, none other than the creator of
+Strike Finance, Shan. Nice to meet you,
+man. Thank you for coming on. Can you
+tell us a little bit about yourself,
+your background, what inspired you to
+create Strike Finance?
+>> Yeah, man. Yeah, man. Um, yeah, a little
+about me. I've been in control space
+around like 3 4 years now. Got my first
+touch into blockchain when during
+everyone was at home just scrolling
+through YouTube. Um, I've uh I've always
+been a developer. I've been um before
+Strike Finance, I've been a developer at
+another um Kono project. I've helped
+ship like multiple project for them and
+then um after that I started Strike
+Finance around June or July of 2024 and
+it's actually been around a year now. Um
+>> nice.
+>> Yeah, man.
+>> It doesn't feel like it's been that
+long, man.
+>> Oh, yeah. It's
+>> It doesn't feel like it's been Does it
+feel like it's gone by fast for you or
+does it feel like it's taken forever?
+>> No, no, no. Like it's fast. Like it's
+already been a year, so it's kind of
+crazy.
+>> That is crazy. I actually just saw an
+interview that you did like 11 months
+ago and I was like, "Wo, I didn't even
+realize it's been that long."
+>> Yeah. Yeah. Yeah. Well, it's been a it's
+been a pretty long journey. Yeah. Well,
+like our first product was the forage,
+you know, it didn't really get us that
+much attention, but then after that,
+that's when we released our perpetual
+contract and that's what that's the
+product that people that's, you know,
+Billy started to using. Oh, yeah.
+>> Driving a lot of volume and attention
+towards Shrek. You know what what made
+me build Shrek is just looking around
+and seeing what's missing on in the
+Cardano ecosystem. Pedro's trading or
+the red was trading they account for
+more than 70 80% of all blockchain
+revenue
+>> and that's that's crazy and when you
+look around there's no such thing on
+just yet. Yeah, that's what made me want
+to that's what made me start strike.
+>> You guys are killing it, man. I'm I've
+been seeing some of the metrics you've
+putting out and I'm I'm impressed. I'm a
+bit of a strike maxi myself. Obviously
+snack is my number one but there was a
+quick there was a moment there when
+snack wasn't doing too hot that strike
+almost flipped my snack bag. I was like,
+I don't know what I'm going to do here.
+>> Oh, Snack is amazing. The Snack
+community is amazing here. Hell, yeah,
+man. I love Snake. I personally hold a
+huge bag, too. And
+>> I love I love Ramy. They're like huge
+DeFi supporters. It's not only just
+Snack. They like this. They support like
+all other DeFi, um on Cardono. So, it's
+amazing.
+>> Okay. Well, then the next question, uh
+what made you choose Cardano? Going back
+to code, everyone's sitting at home
+watching YouTube videos. I saw Charles
+Oskson just standing in front of the
+whiteboard just talking about what
+blockchain is, what his vision for
+Cardono is. And you know, that's what
+initially draw me into Cardono. You
+know, after building on Cardono for so
+long, it's first thing the community.
+Community is awesome. And the second
+thing, the tech. The tech is good. Tech
+is good. It's it's based on the UTX
+model. And me as a developer myself like
+when you when you build smart contracts
+on the UTX model, you have these natural
+guard values that just forces you to
+think in a certain way to build your
+smart contract in a certain way that
+just, you know, removes a lot of the
+common vulnerabilities that you see in
+EVM chains. Now, now I'm not saying like
+smart contracts, they're like perfect,
+like there's no bugs, there's no
+vulnerabilities. They are. They are.
+They most definitely are. But just the
+UTX model, they just it just forces you
+to, you know, build your contract in a
+certain way. I I I feel like it's
+inherently more secure than EVM
+contracts.
+>> That's reassuring to me as somebody
+who's zero experience with developing.
+So, I like that answer. When you started
+Strike, did you think it was going to be
+this successful? What were your initial
+expectations and goals? uh
+you know um when you start a start over
+a project of course you have to believe
+in yourself you have of course you have
+to think this is going to be the next
+big thing the next billion dollar thing
+so yeah right now I still believe you're
+going there
+>> I have to believe that Strik is going to
+be one of the best if not the best
+perpetual trading platform out there one
+day but we're not there yet but you have
+to believe that we no I have to believe
+that we will so most definitely yes
+>> I like it I like it okay um what's your
+favorite food. Favorite food? Uh, so I'm
+in Fujo right now. I was born in Fujo. I
+grew up I was born in Fujo. I lived
+there for like 6 years and I moved to
+the States, but just a natural it's uh
+it's a food originated from here, which
+is just noodles with peanut butter. So
+um like like those peanut butter jars
+you see in like American grocery stores,
+that's like literally what you cook with
+it. Like you you melt it down with like
+some water, like put a bunch of those
+peanut butter, some water, some soy
+sauce, some salt, some sugar, and then
+you just mix it up with noodles. And I
+eat it every single day. Almost every
+single day.
+>> That actually sounds delicious. I'm
+going to have to check that out.
+>> And you have to have like eggs with it.
+You can't just, you know, you have to
+have eggs, a little bit of onions,
+sprinkle on top. You know, if you're
+feeling fancy, put on some spam. But um
+yeah, that's my
+>> Oh, yeah. That's my That's my thing.
+That's
+>> I like it. I like it.
+All right. Uh, could you walk us through
+how perpetual trading works on Strike?
+Yeah.
+>> So, for those of you guys that isn't
+familiar with what perpetual trading
+are, essentially allows you to speculate
+on an asset's price movement. So,
+there's two positions you can take. A
+long or short position. When you think
+an asset will go up in price, you place
+a long position. And when you think an
+asset will go down in price, you place a
+short position. And what usually comes
+with perpetual trading is leverage. What
+leverage is it's you essentially borrow
+money from somebody else to increase
+your position. Now this this money that
+you borrowed whatever profit you earned
+from this borrowed money you keep 100%
+to yourself but whatever losses you you
+know you you occur during this trade you
+will have to pay as if that whole amount
+is yours. So, let's say you take out a
+10x leverage, you might have like a 10x
+profit. If it if the market goes in your
+direction, but it also goes the other
+way around. If the market doesn't go
+into your direction, you might have a
+10x loss.
+>> Okay. So, I've been hearing a lot about
+the fees and I saw you explain it and it
+made complete sense to me, but for any
+of our viewers that aren't familiar with
+it, I I figured I'd give you the stage
+to explain that to them as well.
+>> Yeah. So for perpetuals in regular
+perpetual trading there's there's this
+thing called funding rate which is
+something that the long side pays the
+short side and not necessarily the long
+side pays the short side. So let's say
+when a bunch of people are placing the
+short position, the short position will
+have to pay the long position or okay
+>> if a lot of people are placing a long
+long position the long positions will
+have to pay the short positions and this
+amount that they pay is it's not static
+it change it's dynamic it changes based
+on the ratio of the long versus short
+position now on strike we modeled our
+architecture based off of Jupiter and
+GMX the way that we built our smart
+contracts is there's no order book and
+essentially it's two sides LPS versus
+traders in this case we don't have
+funding rate we have an hourly borrow
+fee which no matter if you're long side
+or short side you have to pay this fee
+on strike we have a huge amount of um
+people just opening up long positions
+and very few people placing up short
+positions and when this happens um I
+mentioned there's two sides of this LPS
+versus traders LPS essentially is the
+people that's providing providing
+liquidity for the traders to trade and
+they're essentially taking the opposite
+trades of the traders and to protect the
+LPS and it's this lopsided trade where
+there's like 90% longs to 10% short we
+have to increase the fees that the longs
+pay to to you know compensate for the
+LPS this is like if you guys have trade
+options contracts before near expiration
+date the option contracts starts getting
+super volatile you can potentially pay
+super super high fees and that's just
+the nature of it cuz during when it's
+near expiration a lot of people wants to
+buy this because they know it's
+profitable and same thing here a lot of
+people start placing lot positions
+because they think it's going to be
+profitable but when when we have this
+lopsided trade we have to charge these
+highly fees for the ops and I want to
+state this here as well like those fees
+we charge it doesn't go towards us we
+just take a small percentage
+of fees when people open up their
+position 100% of it goes to LPS so it's
+really to you
+What's the dynamics between LPS and
+traders?
+>> Funding rate is typical for any trading
+platform.
+>> Yes,
+>> correct.
+>> But yeah. Yeah. In typical um perpetual
+exchanges, it's called funding rate, but
+on our side, it's an hourly borrow fee
+because the source side actually never
+actually gets paid. They they they will
+still pay an hourly fee to to the LPS.
+just that's just the nature of our model
+cuz we are an LPS versus traders model
+just like Jupiter and GMX but for
+hyperlquid or centralized exchange it's
+it's more like a traders versus market
+maker or trader versus trader model so
+that's why they have this funding
+funding rate and for us it's an hourly
+borrow fee
+>> interesting okay I wasn't aware that
+hyperlquid was different from Jupiter
+that's interesting
+>> yeah yeah hyperlid is pure order book
+and Jupiter is we follow our model after
+Jupiter where it's the full LP versus
+traders model.
+>> I like that. All right. Could you give
+us any hints as to what assets might be
+listed on Strike next? Can we expect to
+see Dong or SH or anything outside of
+Cardano? Maybe is Bitcoin in the works?
+>> Yeah. Yeah. Yeah. We like we want assets
+that people want to trade.
+Unfortunately, there's
+>> not a lot of assets that people on
+Cardano CNTs that people want to trade.
+There's not a lot of those. But people
+want to trade Bitcoin, people want to
+trade Salana, people want to trade
+Ethereum, people want to trade Doge, all
+these interesting coins. I'm not saying
+coins only are interesting, but it's
+just like,
+>> right,
+>> it's not it won't generate as much
+volume as these these other coins bring
+them.
+>> You need volume and demand.
+>> Yeah. And so for this whole month, it's
+just going to be us adding a bunch of
+asset supports. We'll still ask CNTs.
+will most like likely have it as like a
+volatile section because um like some of
+the CNT caps are just not not not super
+high and it can get easily manipulated
+and so um
+>> you have to be careful of adding those
+but um yeah for this whole month we're
+going to be adding a bunch so be on the
+lookout
+>> that's exciting that's awesome I'm glad
+I'm glad you I got you on September 1st
+then
+>> oh yeah oh yeah
+>> so that way I could get that alpha
+>> Oh yeah
+>> okay um all right outside of Cardano
+Do you have a preferred project or are
+you a pure-blooded Cardano cultist like
+myself?
+>> What do you mean? Like a project I'm
+building or a project that I just really
+>> No, just just a something you like.
+Maybe something you hold outside of
+Cardano that's a decent sized bag or
+anything like that?
+>> I don't think I hold any tokens other
+than ADA or Strike.
+>> Okay.
+>> That's fair.
+>> Or CNTs to be particular. But um if
+we're talking about projects, I would
+say hyper liquid. They are they're
+they're really a role model um for us
+and not only us, it's the entire crypto
+space. They're legit hunting D
+centralized exchanges. They're they
+bring a lot of spot volume. They're
+bringing a lot of perpetual volumes on
+chain. And not only that, they're they
+spent 97% of their revenue towards
+buybacks. Although it's not the same as
+distributing back the funds. I think
+they're supposed to constable but like
+they're they're also spending a huge
+percentage of their revenue back to you
+know their community members and that's
+something that's really you know I think
+all all all defi start looking towards
+>> okay
+>> you know they're like 30% of all
+blockchain generated volume if you
+exclude exclude like ter or circle
+they're 30% of everything and so that's
+kind of crazy um we want to get there
+>> a lot I mean you guys are doing pretty
+damn I'm good. I've I've seen I've seen
+the numbers. I think I I had to change
+actually one of my questions because one
+of the numbers got more impressive.
+>> Yeah, man. Yeah, man. No, we're just
+getting started. We're just getting
+started. Again, I'm super grateful for
+all the support so far.
+>> All everyone that's, you know, using our
+protocol so far, but yeah, we're just
+getting started. We're so early. There's
+so much more in the space. We're we're
+like we're already working on our V2,
+which is going to, you know, bring us on
+the map on the entire blockchain
+ecosystem, not just, you know, on
+Cardano. And I'm super excited about
+that.
+>> Nice. Well, with a market cap of around,
+at the time of writing the question, 47
+million, the protocol generates insanely
+high revenue, most recently ranking in
+the top 30 globally for D5 protocols.
+How high do you think Strike can reach
+before the end of the bull market? And
+are you aiming for number one?
+>> Like I said, you have to uh as a founder
+of a project, you have to believe, you
+know, you have to be a little bit
+egotistic, a little bit, you know, Mhm.
+or confident to be exact um that you
+will reach that and I sincerely believe
+we will and um yeah the revenue we we
+have right now like um it's it's split
+between the LPS and the stakers and then
+you know it's a strike platform um a lot
+of it is from the LPS you know privity
+and then traders getting liquidated all
+those funds goes towards the LPS um the
+open fees it goes to our strike and we
+strike as a platform to distribute 100%
+of it back to stakers. We are on track
+to distribute nearly more than 3 million
+in ADA this year and
+>> nice
+>> but Hyperlid does 3 million in revenue
+per day and so that's what we want to
+reach. We want to
+>> yeah we we want to go so much higher.
+It's just it's just the beginning.
+>> Okay. I like it. I like I like the lofty
+goals. I like the confidence. I like the
+bravado. All right. So uh the incentive
+for someone to hold strike. Can you
+explain that to me? the utility behind
+the token itself.
+>> Yeah. So, a lot of a lot of DeFi
+projects just try trying to come up with
+like some weird weird or you know forced
+utility for your tokens.
+>> The way I see it is when you did ICO,
+you're essentially doing fundraising and
+whoever bought your tokens are
+essentially your investors. So, you have
+to do everything you can to make your
+investors rich. So to put it simply
+right now we're the only the thing we're
+doing is we're splitting 100% of revenue
+back to our um the stakers stakeholders.
+We raised around 3.8 8 million ADA like
+if we're going towards towards the
+directory we're going within a year of
+our you know
+without accounting for the appreciation
+in Shark tokens price all of our token
+holders will be made full just by
+staking our tokens in a year and that's
+something I'm super proud of and so yeah
+the the only utility for Strike to be
+honest in my eyes is you get revenue you
+got to re you got to share the revenue
+of the platform
+And you know the platform succeeds. If
+this platform makes money, you'll make
+money too. And that's the way I feel it
+for a utility to a token. It's they're
+like people hold your token, they're
+invested. You have to make your investor
+rich. That's it.
+>> All right. So liquidity provisions and
+staking are key features. How do users
+participate in these? And what sort of
+rewards or revenue distribution can they
+expect?
+>> Yeah. Yeah. So for stakers, it's more
+passive. You you just say token, you get
+a percentage of revenue gener platform.
+for LPS it's not so passive but the
+yield you might generate is way more
+than if you were just staking. So um
+yeah yeah it's it's for different people
+with different risk profile. If you you
+have a big risk appetite um you might go
+and provide liquidity on our platform
+sometimes
+sometimes you might see the your the
+liquidity deposit it dropped in volume
+in price but then the next day it jumps
+back up again. So um for for some people
+they're okay with that. you know, if
+they hold it for a long term, they'll
+come out top. For some people, they
+don't really like their, you know,
+deposits going down in value. And so,
+for that, I'd recommend to just stay
+state and just hold.
+>> I like I like having multiple options.
+That's nice. And that can be done
+directly through the website.
+>> Yep. Yep. Definitely.
+>> Okay. All right. This one I I was
+personally interested in myself and I'm
+sure that other people are as well. Did
+you build strike all by yourself or do
+you have
+>> Definitely not. Definitely not. That
+would be that would be amazing.
+right? Yeah. So, right now we have five
+full-time engineers, three people's
+working on um our Strike V2 and me and
+another engineer, we're maintaining our
+V1, just making changes to it, updating
+it. And as for our initial V1, we had
+three engineers, which is and we we kind
+of split the task on V1. For V2, we
+onboarded um we onboarded to three
+engineers from one of the largest
+exchanges in Asia to help us build our
+V2. And this is, you know, this is what
+gives me confidence that we'll we'll
+build a 4 V2 will put us on the map in
+the entire blockchain ecosystem, the
+team you have. And
+>> yeah, it's awesome.
+>> So, yeah, super excited. Super excited.
+>> I like that. I like that. Do you listen
+to music? And if so, what song do you
+think you've listened to the most this
+year?
+>> Yeah. Um, when I was back in America, it
+was it would be rap music. I'm from New
+York and u it was during a time where
+drill music was super popular. So, it
+was a bunch of Sleepy Hollow, Pop,
+Smoke, Rest in Peace. And then uh now
+that I'm back in China, it's Chinese
+songs.
+>> Okay.
+>> Yeah.
+>> Re has distributed significant amounts
+of ADA back to the community. Do you see
+this as a sustainable model?
+>> Yes. And the reason for that is um first
+off the team also have other revenue
+sources from um the ADA state and our
+our protocol get we get 100% of the
+staking awards. knowing that team has
+around
+20 uh no 30% of tokens from the DAO. So
+DAO from the DAO plus the team tokens.
+We have just under 30% of the token and
+we stake those tokens and so we're of
+course we're not running off of nothing.
+We we stake our tokens and we got the
+rewards just like everyone else. And
+this is what you know
+>> incentivize aligns our interest
+alongside the stakeholders. if we if we
+make money like we'll earn those rewards
+to restrict our strike we'll get a
+percentage of the revenue and so I
+definitely think it's sustainable like
+we're back in profit right now from the
+initial raise we're profit we're
+profitable right now as well and so yeah
+man I definitely think it it is
+>> how has strike changed your life
+>> significantly um so before this I was in
+China before starting strike I was most
+definitely most definitely going to be a
+tattoo artist. I've been a
+>> Okay.
+>> I was a tattoo apprentice through all
+throughout my high school years. That's
+the thing I was going to do. But yeah,
+one thing led to another.
+>> That's pretty sick.
+>> Yeah. One one thing led to another. And
+I started Strike. And once I started
+Strike, um cuz I I lived in New York.
+New York is great and all, but um it's
+not the best place for a young person
+building a crypto project. And I was
+like, maybe I need a change of scenery.
+It's too hectic here. And so I moved
+back to China. Yeah. But yeah, it's
+changed my life to put it this study. It
+it changed my life a lot. Yeah.
+>> All right. I like it. Looking ahead,
+what can you share with us about the
+upcoming V2 release?
+>> Yeah. For a farm V2, it's going to be a
+pure order book model and so it's going
+to we're going to have market makers
+filling up people's orders. The fees,
+it's going to be significantly
+lower. We'll have near instant order
+confirmation. Right now, if you place a
+trade on track, you typically need to
+wait like 20 to 30 second for everything
+to finalize and you know make changes to
+your position for just be near instant.
+So, you can open a book and close the
+position within a second. The cost the
+cost is going to be significantly lower
+because right now there's not going to
+be an LP. It's going to be market makers
+fulfilling people's orders and we won't
+have to charge as much of a hourly fee
+anymore. And not not only that, we can
+support so much more assets right now.
+If you want to list an asset on strike,
+you need the underlying assets. So if
+you want to list Bitcoin on strike B1
+right now, we need Bitcoin on Cardono.
+We don't technically have it right now.
+We have, you know, bridged Bitcoin from
+land chain, but it's not a lot of volume
+and it just makes it a hassle. For our
+V2, we don't need the underlying assets
+and we can list nearly any asset we
+want. Bitcoin, Salana, Ethereum, Doge,
+anything we want. And we will offer it
+at a really, really low fee.
+>> Okay. Will the user interface be
+changing at all with V2?
+>> Oh, slightly. Just slightly. I I like
+the way it looks right now. I think it's
+clean. It's simple. It's easy to
+understand. I played around with a few
+other perpetual platform like some of
+some of them makes it like super hard
+to, you know, open up a position. Hard
+to realize, you know, how much it
+leverages. Like I try I played around
+with UIDX like the way they had their
+UIUX set up is a bit confusing or a bit
+you know
+>> a bit of chaos.
+>> Um which is gonna add a few more things
+to it. Um but it's not going to change
+much.
+>> Okay. So I I got I got one for you. When
+you open or close a position or I guess
+when you open a position you have take
+profit and stop loss maybe as well. on
+the chart. Sometimes on other platforms,
+there's the little bar that shows you
+your take profit or stop loss, and they
+let you drag that if you want to change
+it. I thought that that'd be kind of a
+cool concept.
+>> Okay, we recently added, we we actually
+added like 2 three days ago of you
+seeing your
+>> stop loss and take profits um as lines
+on the chart, but I didn't know that you
+can drag it around and change the price.
+I think that's something. No, it's
+interesting. I think that'd be a cool UI
+UI thing to add. It It'll be fairly
+quick, too. So, I didn't know.
+Interesting. Yeah,
+>> I'm I'm glad I can contribute.
+>> Okay. Uh so, what does the endgame look
+like for Strike? What is your big
+picture goal?
+>> So, right now in within a one-year time,
+we really want to be top three top three
+perpetual protocol in the entire
+blockchain space, not just Cardono. And
+after that, we So, here's the thing. I
+think I mentioned this in the beginning
+of the interview. Perpetual shading are
+is 70% of all blockchain revenue and
+this isn't accounting for centralized
+exchanges. If you adding centralized
+exchanges, perpetual sharing probably
+accounts for 80 maybe 90% of all
+blockchain gener volume. And if you
+think blockchain is going to be the de
+facto platform for where financial
+activities happen, then I think you
+should also believe perpetual trading
+will be the number one one financial
+instrument in the world. So now with
+that in mind, I think you should be able
+to do perpetual trading on nearly
+anything you can bring, you can put a
+price tag on. So perpetious trading
+gold, silver, preipo companies, stockax,
+open AI, IPO companies, Google, Nvidia
+or maybe even predictions market. And
+this is we're we're actually building
+this with bodega market to having
+leverage um predict a leverage
+prediction market where you know the
+batch plays are leverage and just
+perpety everything. Anything that has a
+price tag on it, you should have
+perpetual shading with it. And that's
+that's kind of my vision for
+Strike Finance, just doing perpetual
+trading on nearly anything you can think
+of.
+>> Okay.
+>> I think it just makes sense.
+>> I like that about Bodega.
+>> Oh, yeah.
+>> As well. Bodega is one of my one of my
+favorite Cardano project coming out
+sooner than people think it's uh it's
+coming out.
+>> Nice. All right. Um, how to strike
+integrate with the broader Cardano
+ecosystem? Are there any partnerships or
+collaborations in the works? Yeah, right
+now it's I mentioned the thing with
+Bodega where it's the joint project with
+you know Shack Finance and Bodega where
+people will be placing leverage bets on
+Bodega and that's this is a partnership
+that I think I'm most excited about I'm
+most excited about because predictions
+market they're they're also like a
+rising kind of kind of platform that the
+crypto crypto space is you know started
+slowly getting into and perpetual
+trading well it's
+>> the fast. Well, it's actually one of the
+fastest growing financial instrument in
+the world and it started auto crypto
+like 10 years ago which is crazy and you
+know just combining these two of the
+fastest growing products in the entire
+crypto space and just combining these
+two a lot a lot a lot of potential here
+and something I'm like one of the most
+things that I'm excited about most
+excited about partnership this this
+thing with bodega
+>> I like it I like it that's exciting that
+would be I I haven't seen anybody else
+do that has done before perpetual.
+>> We we've seen market yeah we've seen it
+with I think with QYDX or GMX a platform
+on Ethereum but they only did for one
+bet and it actually didn't end so well
+because their risk management wasn't
+done so well but you know we we saw that
+and we know we can improve upon that. So
+yeah dude I'm I'm super excited about
+this.
+>> Okay awesome. All right. Uh, does Strike
+currently do any marketing and do you
+plan to in the future?
+>> Marketing, here's the thing. Far Vine, I
+feel like it's marketed towards people
+on Cardono and a lot of people already
+know us on Cardano. If you want to trade
+perpetual, you most likely have us or
+use this. So, as for marketing, you have
+to try to go outside of Cardano. Try to
+bring people from outside of Cardono
+onto Cardono and use product. We aren't
+super confident that our V1 will do this
+cuz for V1 if you're Cardono native or
+our our V1 is actually super competitive
+with the pricing once you account for
+you know swapping your ADA or CNTs to
+you know USDC and place a trade on other
+platforms swapping back and forth the
+slippage on other platforms those apps
+up and when you add those up like we are
+actually kind of competitive but if
+you're outside of Cardano you have to
+actually swap chains swap your assets
+onto into ADA and you use our platform.
+Our fees aren't super competitive. We
+aren't sure we'll, you know, attract any
+new users. But for our V2, the fees are
+going to be so low. The experience is
+going to be so great that, you know,
+we're confident we'll bring people from
+other blockchains and that's the time
+when we'll really push heavy on the
+marketing side, on the growth side.
+>> Okay.
+>> In a volatile crypto market, how does
+Strike manage risks for traders? Are
+take-profit and stop-loss options
+available? And what advice would you
+give to new users?
+Yeah, if you're trading perpetuals, the
+only advice is just put a stop loss.
+Just put a stop loss and you know, a lot
+of people just don't put a stop loss and
+they get liquidated. When you get
+liquidated, you you don't actually lose
+100% of your funds and you get
+liquidated. There's usually like 5 10
+20% of your funds left be like split
+second before you get liquidated and you
+just put a stop loss right above the
+liquidation price. you save like 10 5 10
+20% of your assets. So just just put a
+stop loss. That's the that's the only
+recommendation. Just put a stop loss.
+>> As a prominent figure in the Cardano
+community, what do you see as the
+biggest opportunities and challenges for
+DeFi on Cardano in the next year?
+>> Opportunities. I think it's really
+um RWAS. Well, we're seeing a lot of
+interest in RWAs in into from other
+chains. I think the challenge is it's
+really just how do we build products
+that attract new users? I saw this tweet
+the other day where we have 1,600
+catalyst proposals but less than a
+thousand active wallets trading on
+Cardono. So how do you change that? How
+do you build products that to attract
+new users? I think that's that's really
+the challenge. How do you how do you
+attract new users to Cardano? Not just
+you know
+building products for a thousand users
+currently on Cardono. How do you attract
+new people here? I think that's the the
+challenge
+>> answer. All right. Do you believe in
+Bigfoot?
+>> Bigfoot? Great question. I No,
+unfortunately, but I do believe in UFOs.
+>> Okay.
+>> I think Bigfoot was was probably
+man-made. Somebody just dressed up in a
+costume. But UFOs though, aliens, they
+most definitely do exist.
+>> Now, do you think aliens come from space
+or do you think they're under the ocean?
+>> That's interesting. Definitely from
+space. Definitely from space. You
+probably higher intelligence. have all
+these high tax. I most definitely do
+believe in that. Or else it's be uh
+super scary that we're the only we're
+the only ones here,
+>> right?
+>> No, you have all those aliens. 100% they
+exist 100%.
+>> All right, I'll take that. I'll take it.
+If you could give a price target for
+Cardano, not financial advice, of
+course, what would it be?
+>> This year,
+>> this bull market.
+>> Oh, this bull market. I think I told you
+all my assets are in CNT store ADA. So,
+my hope is $10. That'll be like the
+perfect spot. That'll just give me
+enough sticking warts every single you
+know epoch to just live really
+comfortably and you know I can live a
+little bit lavishly splurge a little
+bit. But but yeah for if I'm be honest
+like Cardano it's Cardano I really
+believe it's really great. It's the best
+in the industry. the UTX model h being
+having the ability to build contracts on
+top of the UTX model, having you know
+the ability for people to run a stake
+pool on a Raspberry Pi on a device this
+small like these things are these things
+stands for in my opinion these things
+are you know what blockchain stands for
+having anyone being able to buy a node
+and you know having a secure dab with
+the UTX model. Yeah, man. Yeah, man. The
+tag is good. The tag is good.
+>> Well said. Last question I got here for
+you. If you could give one piece of
+advice to aspiring builders in the
+blockchain space, what would it be?
+>> Oh, just just I think it's just
+you just just keep building. If one of
+your product fell, just, you know, pivot
+and build again. Like our our first
+product suck sucked ass. Like nobody
+used it. You probably don't even
+remember what our product was. And
+that's exactly the point. Nobody
+remembers it. So just just keep
+building. Just keep building. I like it.
+I like it. Awesome. Well, thank you so
+much for joining me. I appreciate you
+taking the time out of your day to chat.
+I hope we can do this again soon. Maybe
+when Strike is sitting comfortably
+amongst the top 10 D5 protocols.
+>> Thank you. Thank you. And thanks for
+having me.
+>> Oh, yeah. Absolutely. I appreciate it,
+man. Hell yeah.
+[Music]
