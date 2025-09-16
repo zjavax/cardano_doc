@@ -58,10 +58,12 @@ https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a222
 
 > 2025.8.17
 
-[Andrew Westberg对shan的采访](https://www.youtube.com/watch?v=OKaDJSd8POc&ab_channel=AndrewWestberg)
+[Andrew Westberg对shan的采访 英文](https://www.youtube.com/watch?v=OKaDJSd8POc&ab_channel=AndrewWestberg)
 
 > 2025.8.23
-> shan是Strike创始人, 油管自带字幕可翻译为中文,
+> shan是Strike创始人, 油管自带字幕可翻译为中文
+
+[JJ's Cryptic Corner对shan的采访 英文](https://www.youtube.com/watch?v=92qQtEP-MJI)
 
 [Strike Finance介绍之strike代币质押](https://youtu.be/ZAfQEu0FL_E?si=RCoTRfoRHfNt-v7o)
 
