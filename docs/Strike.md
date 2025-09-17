@@ -41,6 +41,10 @@
 https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45
 > 在不同价格区间, 买卖的挂单深度, 通过了解这个 知道市场大概的底部 和 顶部, DCA的时候可以提供一定的参考
 
+### 限价单
+如果不急直接买卖,  推荐在minswap上 下限价单: https://minswap.org/zh-CN/swap
+或者 在这个P2P OTC市场: https://x.com/chadswap_
+
 ## 视频资源
 
 [饺子和shan的中文推特语音直播](https://youtu.be/rTf9U4mCXoA?si=53wrqTiRjfwTHayv)
