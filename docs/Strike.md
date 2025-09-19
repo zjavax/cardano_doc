@@ -1,6 +1,6 @@
 # Strike
 
-**$Strike** 代币Policy Id(唯一标识): **f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275**
+[[strike_api]]**$Strike** 代币Policy Id(唯一标识): **f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275**
 
 ## 官方链接
 
@@ -84,3 +84,5 @@ https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a222
 > 2025.8.15
 
 [Strike代币经济学](https://youtu.be/PjWvbUl0484?si=vlCKJuERQDPtilaw)
+
+[Strike流动性供应LP原理](https://youtu.be/lBDmTFaF3Yw?si=OS64q_CLZ4wRZsj1)
