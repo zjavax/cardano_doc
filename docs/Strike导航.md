@@ -1,56 +1,56 @@
 
-本群 @Strike_CN 分享链接: `https://t.me/Strike_CN`   
+本群 @Strike_CN 分享链接: `https://t.me/Strike_CN`
 $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275`   
-我的微信: `zx_zhuzi` (有ada微信社区, 加我备注ada)
+我的微信: **zx_zhuzi**（欢迎加入 ADA 微信社区，添加请备注「**ada**」）
+
   
-Strike导航:  
+## 官方链接
 [推特](https://x.com/strikecardano)  
 [创始人shan推特](https://x.com/sz8ng)  
 [官网](https://app.strikefinance.org/staking)  
 [discord](https://discord.com/invite/SjH4NDeEGq)  
 [所有官方链接](https://linktr.ee/strikecardano)  
-[Strike详细资料](https://zjavax.github.io/cardano_doc/#/docs/Strike)  
   
-最佳购买建议:  
+## 最佳购买建议
 [minswap 聚合器(推荐)](https://minswap.org/aggregator?cA=&tA=&cB=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275&tB=535452494b45&agg=true)  
 [steelswap 聚合器](https://steelswap.io/swap?input=&output=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45&type=input&amount=NaN)  
 [dexhunter 聚合器](https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45)  
 [限价单minswap](https://minswap.org/zh-CN/swap)  
 [订单簿深度](https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45)  
 
-学习资料和视频
-[Strike文档](https://docs.strikefinance.org/)
-[Strike Finance介绍之strike代币质押](https://youtu.be/ZAfQEu0FL_E?si=RCoTRfoRHfNt-v7o)
-[Strike代币经济学](https://youtu.be/PjWvbUl0484?si=vlCKJuERQDPtilaw)
-[Strike 流动性供应LP 页面基本介绍](https://youtu.be/HyOGOmn99SQ?si=NIpDvirONGyld-jy)
-[Strike流动性供应LP原理](https://youtu.be/lBDmTFaF3Yw?si=OS64q_CLZ4wRZsj1)
-[Cardano链上swap最佳实践](https://youtu.be/eOnsatNOb_c?si=WbJXsMQWjI0Camnb)
+## 学习资料和视频
+[Strike文档](https://docs.strikefinance.org/)  
+[Strike Finance介绍之strike代币质押](https://youtu.be/ZAfQEu0FL_E?si=RCoTRfoRHfNt-v7o) 
+[Strike代币经济学](https://youtu.be/PjWvbUl0484?si=vlCKJuERQDPtilaw)  
+[Strike 流动性供应LP 页面基本介绍](https://youtu.be/HyOGOmn99SQ?si=NIpDvirONGyld-jy) 
+[Strike流动性供应LP原理](https://youtu.be/lBDmTFaF3Yw?si=OS64q_CLZ4wRZsj1)  
+[Cardano链上swap最佳实践](https://youtu.be/eOnsatNOb_c?si=WbJXsMQWjI0Camnb)  
 
-电报社区
-[饺子的社区](https://t.me/DayDayAda): @DayDayAda
-[snek中文社区](https://t.me/SNEKCN): @SNEKCN
-[Cardano交易群](https://t.me/CardanoTraders): @CardanoTraders
-[Snek NFT社区](https://t.me/SnekkiesTW) @SnekkiesTW
+## 电报社区
+[饺子的社区](https://t.me/DayDayAda): @DayDayAda  
+[snek中文社区](https://t.me/SNEKCN): @SNEKCN  
+[Cardano交易群](https://t.me/CardanoTraders): @CardanoTraders  
+[Snek NFT社区](https://t.me/SnekkiesTW) @SnekkiesTW  
 
-治理
-[projectcatalyst](https://projectcatalyst.io/)
-[gov tools](https://gov.tools/)
-[tempo vote](https://tempo.vote/)
-[lidonation](https://www.lidonation.com/en/catalyst-explorer)
+## 治理
+[projectcatalyst](https://projectcatalyst.io/)  
+[gov tools](https://gov.tools/)  
+[tempo vote](https://tempo.vote/)  
+[lidonation](https://www.lidonation.com/en/catalyst-explorer)  
 
-钱包:
+## 钱包
 [vespr 推荐](https://x.com/vesprwallet)
 [eternl](https://x.com/eternlwallet)
 [lace iog官方](https://x.com/lace_io)
 [yoroi 不推荐](https://x.com/YoroiWallet)
 [daedalus 牛头 全节点钱包 不推荐](https://daedaluswallet.io/en/download/)
 
-借贷市场
+## 借贷市场
 [liqwid](https://x.com/liqwidfinance)
 [surf](https://x.com/surfcardano)
 [levvy](https://x.com/levvyfinance)
 
-其它工具
+## 其它工具
 [taptools](https://www.taptools.io/charts/token/strike)
 [bending ai](https://bending.ai/market?sort_by=MarketCap&order=desc)
 [jpg store NFT市场](https://www.jpg.store/)
@@ -61,14 +61,14 @@ Strike导航:
 [defillama cardano TVL](https://defillama.com/chain/cardano)
 [defillama cardano利润](https://defillama.com/revenue/chain/cardano)
 
-链上浏览器
+## 链上浏览器
 [cardanoscan](https://cardanoscan.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
 [cexplorer](https://cexplorer.io/pool/pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed)
 [pool pm](https://pool.pm/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
 [pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)
 [adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
 
-snek导航:
+## snek导航
 
 
 
