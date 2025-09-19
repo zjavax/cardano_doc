@@ -29,7 +29,7 @@
 - [人物榜单](./docs/Cardano中文风云人物榜.md)
 - [Hosky](./docs/Hosky.md)
 - [Strike](./docs/Strike.md)
-- [Strike](./docs/Strike导航.md)
+- [Strike导航](./docs/Strike导航.md)
 - [Strike流动性池介绍](./docs/strike_lp.md)
 - [Strike开发更新](./docs/strike_dev.md)
 - [Strike代币经济学](./docs/strike_tokenomics.md)
