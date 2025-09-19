@@ -1,7 +1,7 @@
 
-本群 @Strike_CN 分享链接: `https://t.me/Strike_CN`
-$Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275`   
-我的微信: **zx_zhuzi**（欢迎加入 ADA 微信社区，添加请备注「**ada**」）
+本群 @Strike_CN 分享链接: `https://t.me/Strike_CN`  
+$Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275`  
+我的微信: **zx_zhuzi**（欢迎加入 ADA 微信社区，添加请备注「**ada**」）  
 
   
 ## 官方链接
@@ -39,34 +39,34 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [lidonation](https://www.lidonation.com/en/catalyst-explorer)  
 
 ## 钱包
-[vespr 推荐](https://x.com/vesprwallet)
-[eternl](https://x.com/eternlwallet)
-[lace iog官方](https://x.com/lace_io)
-[yoroi 不推荐](https://x.com/YoroiWallet)
-[daedalus 牛头 全节点钱包 不推荐](https://daedaluswallet.io/en/download/)
+[vespr 推荐](https://x.com/vesprwallet)  
+[eternl](https://x.com/eternlwallet)  
+[lace iog官方](https://x.com/lace_io)  
+[yoroi 不推荐](https://x.com/YoroiWallet)  
+[daedalus 牛头 全节点钱包 不推荐](https://daedaluswallet.io/en/download/)  
 
 ## 借贷市场
-[liqwid](https://x.com/liqwidfinance)
-[surf](https://x.com/surfcardano)
-[levvy](https://x.com/levvyfinance)
+[liqwid](https://x.com/liqwidfinance)  
+[surf](https://x.com/surfcardano)  
+[levvy](https://x.com/levvyfinance)  
 
 ## 其它工具
-[taptools](https://www.taptools.io/charts/token/strike)
-[bending ai](https://bending.ai/market?sort_by=MarketCap&order=desc)
-[jpg store NFT市场](https://www.jpg.store/)
-[Bodega 预测市场](https://x.com/BodegaCardano)
-[adahandle](https://x.com/adahandle)
-[chadswap P2P OTC市场](https://x.com/chadswap_)
-[Indigo CDP合成资产](https://x.com/Indigo_protocol)
-[defillama cardano TVL](https://defillama.com/chain/cardano)
-[defillama cardano利润](https://defillama.com/revenue/chain/cardano)
+[taptools](https://www.taptools.io/charts/token/strike)  
+[bending ai](https://bending.ai/market?sort_by=MarketCap&order=desc)  
+[jpg store NFT市场](https://www.jpg.store/)  
+[Bodega 预测市场](https://x.com/BodegaCardano)  
+[adahandle](https://x.com/adahandle)  
+[chadswap P2P OTC市场](https://x.com/chadswap_)  
+[Indigo CDP合成资产](https://x.com/Indigo_protocol)  
+[defillama cardano TVL](https://defillama.com/chain/cardano)  
+[defillama cardano利润](https://defillama.com/revenue/chain/cardano)  
 
 ## 链上浏览器
-[cardanoscan](https://cardanoscan.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
-[cexplorer](https://cexplorer.io/pool/pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed)
-[pool pm](https://pool.pm/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
-[pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)
-[adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)
+[cardanoscan](https://cardanoscan.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
+[cexplorer](https://cexplorer.io/pool/pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed)  
+[pool pm](https://pool.pm/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
+[pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)  
+[adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
 
 ## snek导航
 
