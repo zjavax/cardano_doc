@@ -1,4 +1,3 @@
-
 本群 @Strike_CN 分享链接: `https://t.me/Strike_CN`  
 $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275`  
 我的微信: **zx_zhuzi**（欢迎加入 ADA 微信社区，添加请备注「**ada**」）  
@@ -12,7 +11,7 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [所有官方链接](https://linktr.ee/strikecardano)  
   
 ## 最佳购买建议
-[minswap 聚合器(推荐)](https://minswap.org/aggregator?cA=&tA=&cB=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275&tB=535452494b45&agg=true)  
+[minswap 聚合器 推荐](https://minswap.org/aggregator?cA=&tA=&cB=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275&tB=535452494b45&agg=true)  
 [steelswap 聚合器](https://steelswap.io/swap?input=&output=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45&type=input&amount=NaN)  
 [dexhunter 聚合器](https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275535452494b45)  
 [限价单minswap](https://minswap.org/zh-CN/swap)  
@@ -30,13 +29,13 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [饺子的社区](https://t.me/DayDayAda): @DayDayAda  
 [snek中文社区](https://t.me/SNEKCN): @SNEKCN  
 [Cardano交易群](https://t.me/CardanoTraders): @CardanoTraders  
-[Snek NFT社区](https://t.me/SnekkiesTW) @SnekkiesTW  
+> [Snek NFT社区](https://t.me/SnekkiesTW) @SnekkiesTW  
 
 ## 治理
 [projectcatalyst](https://projectcatalyst.io/)  
 [gov tools](https://gov.tools/)  
-[tempo vote](https://tempo.vote/)  
-[lidonation](https://www.lidonation.com/en/catalyst-explorer)  
+> [tempo vote](https://tempo.vote/)  
+> [lidonation](https://www.lidonation.com/en/catalyst-explorer)  
 
 ## 钱包
 [vespr 推荐](https://x.com/vesprwallet)  
@@ -54,22 +53,47 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [taptools](https://www.taptools.io/charts/token/strike)  
 [bending ai](https://bending.ai/market?sort_by=MarketCap&order=desc)  
 [jpg store NFT市场](https://www.jpg.store/)  
-[Bodega 预测市场](https://x.com/BodegaCardano)  
-[adahandle](https://x.com/adahandle)  
-[chadswap P2P OTC市场](https://x.com/chadswap_)  
-[Indigo CDP合成资产](https://x.com/Indigo_protocol)  
+> [Bodega 预测市场](https://x.com/BodegaCardano)  
+> [adahandle](https://x.com/adahandle)  
+> [chadswap P2P OTC市场](https://x.com/chadswap_)  
+> [Indigo CDP合成资产](https://x.com/Indigo_protocol)  
 [defillama cardano TVL](https://defillama.com/chain/cardano)  
-[defillama cardano利润](https://defillama.com/revenue/chain/cardano)  
+> [defillama cardano利润](https://defillama.com/revenue/chain/cardano)  
+> [unfrack 整理钱包碎片](https://unfrack.it/)  
+> [eutxo](https://eutxo.org/)
 
 ## 链上浏览器
 [cardanoscan](https://cardanoscan.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
-[cexplorer](https://cexplorer.io/pool/pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed)  
+> [cexplorer](https://cexplorer.io/pool/pool1c86ul4pnqvu7jzag8fjdy6dgrn6pt4ad4vmyq038hyg0wl2kaed)  
 [pool pm](https://pool.pm/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
-[pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)  
-[adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
+> [pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)  
+> [adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
+
+> BTC相关
+> [BTC OS](https://x.com/BTC_OS)
+> [bitvmx iog团队项目](https://x.com/bitvmx)
+
+> 侧链和L2
+> [DeltaDeFi](https://x.com/DeltaDeFi)
+> [midnight 午夜隐私链](https://x.com/MidnightNtwrk)
+
+资讯网络
+[essentialcardano](https://www.essentialcardano.io/)
+[adapulse](https://adapulse.io/)
+[cardanocube](https://www.cardanocube.io/)
+[cardano 论坛](https://forum.cardano.org/)
+[cardanofeed](https://cardanofeed.com/)
+
+[美联储降息预测网站](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html)
+[金十数据](https://rili.jin10.com/)
 
 ## snek导航
+[snek时间线](https://snektimeline.com/)
+[snek 数据面板](https://snekboard.com/)
+[Goofycrisp DRep信息](https://gov.tools/drep_directory/drep1phvyckc7tqqlftyxqvp9fjdgczac4swsc7ssj26h785uxhwx0tt)
 
+
+结束
 
 
 
