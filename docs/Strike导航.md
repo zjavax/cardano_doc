@@ -69,27 +69,27 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 > [pooltool](https://pooltool.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7/epochs)  
 > [adastat](https://adastat.net/pools/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
 
-> BTC相关
-> [BTC OS](https://x.com/BTC_OS)
+> ## BTC相关
+> [BTC OS](https://x.com/BTC_OS)  
 > [bitvmx iog团队项目](https://x.com/bitvmx)
 
-> 侧链和L2
-> [DeltaDeFi](https://x.com/DeltaDeFi)
+> ## 侧链和L2
+> [DeltaDeFi](https://x.com/DeltaDeFi)  
 > [midnight 午夜隐私链](https://x.com/MidnightNtwrk)
 
-资讯网络
-[essentialcardano](https://www.essentialcardano.io/)
-[adapulse](https://adapulse.io/)
-[cardanocube](https://www.cardanocube.io/)
-[cardano 论坛](https://forum.cardano.org/)
-[cardanofeed](https://cardanofeed.com/)
+## 资讯网络
+[essentialcardano](https://www.essentialcardano.io/)  
+[adapulse](https://adapulse.io/)  
+[cardanocube](https://www.cardanocube.io/)  
+[cardano 论坛](https://forum.cardano.org/)  
+[cardanofeed](https://cardanofeed.com/)  
 
-[美联储降息预测网站](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html)
+[美联储降息预测网站](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html?redirect=/trading/interest-rates/countdown-to-fomc.html)  
 [金十数据](https://rili.jin10.com/)
 
 ## snek导航
-[snek时间线](https://snektimeline.com/)
-[snek 数据面板](https://snekboard.com/)
+[snek时间线](https://snektimeline.com/)  
+[snek 数据面板](https://snekboard.com/)  
 [Goofycrisp DRep信息](https://gov.tools/drep_directory/drep1phvyckc7tqqlftyxqvp9fjdgczac4swsc7ssj26h785uxhwx0tt)
 
 
