@@ -23,12 +23,13 @@
 [taptools平台Strike代币k线](https://www.taptools.io/charts/token/strike)
 
 ## $Strike代币购买建议
+目前$strike代币没有上线任何cex, 只能在ada 链上购买
 
-目前$strike代币没有上线任何cex, 只能在ada swap上面购买
+池子最深的在minswap(有100万ada)和splash(有50万ada) ,池子交易费用均为1%  
 
-池子最深的在minswap(有100万ada)和splash(有50万ada) ,池子交易费用均为1%
+推荐购买swap为: minswap聚合器(推荐, 费用0.85₳ 或 0.1%) 和 dexhunter(费用1ada+0.15%) 和 steelswap(收费最为便宜, 仅仅收1ada)
 
-推荐购买swap为, 大家购买时通过比较选择最便宜的:
+推荐购买使用聚合器,
 
 1. minswap聚合器(推荐, 费用0.85₳ 或 0.1%)
    https://minswap.org/aggregator?cA=&tA=&cB=f13ac4d66b3ee19a6aa0f2a22298737bd907cc95121662fc971b5275&tB=535452494b45&agg=true
@@ -86,3 +87,15 @@ https://app.dexhunter.io/swap?tokenIdSell=&tokenIdBuy=f13ac4d66b3ee19a6aa0f2a222
 [Strike代币经济学](https://youtu.be/PjWvbUl0484?si=vlCKJuERQDPtilaw)
 
 [Strike流动性供应LP原理](https://youtu.be/lBDmTFaF3Yw?si=OS64q_CLZ4wRZsj1)
+
+## strike被fud然后澄清
+07010393  
+  
+strike's license number registered in dubai under Strike Labs LTD.  
+Strike 的许可证号在迪拜注册，名记 Strike Labs LTD。  
+  
+100% share holder name  
+100%股东姓名  
+  
+Shan Yu Zhang  
+张珊宇

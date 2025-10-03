@@ -35,7 +35,7 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [projectcatalyst](https://projectcatalyst.io/)  
 [gov tools](https://gov.tools/)  
 [tempo vote](https://tempo.vote/)  
-[lidonation](https://www.lidonation.com/en/catalyst-explorer)  
+[PolarisGov_App](https://x.com/PolarisGov_App)
 
 ## 钱包
 [vespr 推荐](https://x.com/vesprwallet)  
@@ -61,6 +61,7 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 [defillama cardano利润](https://defillama.com/revenue/chain/cardano)  
 [unfrack 整理钱包碎片](https://unfrack.it/)  
 [eutxo](https://eutxo.org/)
+[电报钱包监控机器人](https://t.me/AdaWatchBot)
 
 ## 链上浏览器
 [cardanoscan](https://cardanoscan.io/pool/c1f5cfd4330339e90ba83a64d269a81cf415d7adab36403e27b910f7)  
@@ -76,6 +77,8 @@ $Strike代币Policy Id(唯一标识): `13ac4d66b3ee19a6aa0f2a22298737bd907cc9512
 ## 侧链和L2
 [DeltaDeFi](https://x.com/DeltaDeFi)  
 [midnight 午夜隐私链](https://x.com/MidnightNtwrk)
+[RosenBridge_erg](https://x.com/RosenBridge_erg)
+> ergo链上的去中心化跨链桥项目, 实现了ada与erg, ada与btc等的跨链
 
 ## 资讯网络
 [essentialcardano](https://www.essentialcardano.io/)  
