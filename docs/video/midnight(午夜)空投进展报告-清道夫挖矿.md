@@ -13,6 +13,14 @@
 在任何大规模的分发活动中，一些符合条件的参与者难免会错过最初的领取机会。“失物招领”阶段为那些未参加“冰川空投”阶段的参与者提供了一个机会。
 主网上线后将有一小部分未领取的 NIGHT 代币可供领取。
 
+## 清道夫挖矿如何参与
+- 面向所有人
+- 只需台式机或笔记本电脑上的网页浏览器以及网络连接即可,不支持智能手机
+- 无需任何技术经验或生态系统背景
+- 只要您的设备和浏览器处于活动状态，应用就会一直运行。为了最大限度地利用您的潜在资源，您可以每天 24 小时运行该实例。(30天)
+- 准备一个没有使用过的空地址,链接官网
+- 对唯一的声明消息进行签名
+
 ## 代币分配
 ![night代币分配](images/20251028174035.png)
 
@@ -23,3 +31,4 @@ https://www.midnight.gd/news/night-token-supply-minted-on-cardano-mainnet
 https://www.midnight.gd/news/digging-into-scavenger-mine-and-beyond
 https://claim.midnight.gd/
 https://midnight.network/blog/state-of-the-network-october-2025
+https://www.midnight.gd/news/scavenger-mine-will-open-to-all-soon?__hstc=158474597.92badb4b84c223504ebac449591b9cb9.1759311615012.1760788609539.1761280466121.13&__hssc=158474597.1.1761280466121&__hsfp=1240836238
