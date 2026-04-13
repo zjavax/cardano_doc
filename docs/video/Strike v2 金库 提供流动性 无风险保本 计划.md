@@ -11,7 +11,6 @@ https://x.com/strikeperps/status/2043032058612576634
 - 所有潜在的收益分配将在计划结束后进行
 - 上限 100万美金
   
-
 ## 金库
 https://docs.strikefinance.org/perpetuals/vaults
 - 在 投资组合 页面 你需要先 充值 到平台上
@@ -23,7 +22,6 @@ https://docs.strikefinance.org/perpetuals/vaults
 #### 管理者份额 
 金库管理人必须始终持有至少 5% 的金库总股份。此项要求适用于管理人提款——管理人不得提款导致其持股比例低于此阈值。这确保了管理人拥有实际的权益。
 
-
 ## 对strike平台的看法
 
 - strike平台是很挣钱的，或者说永续合约平台都挺挣钱的
@@ -33,9 +31,6 @@ https://docs.strikefinance.org/perpetuals/vaults
 - shan 懂中文， 与社区沟通很频繁，有任何问题随时可以沟通
 - 玩任何defi平台 都是有风险
 - 平台只要有持续盈利能力，风险这块就有把控
-
-
-
 
 ## 参考
 https://medium.com/@strikecardano/introducing-strike-liquidity-program-d4995cd20f30?postPublishedType=repub
